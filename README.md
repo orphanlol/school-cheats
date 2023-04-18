@@ -1,2 +1,2 @@
-# school-cheats
+# School Cheats
 Cheats curated for school chromebooks
