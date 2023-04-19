@@ -1,6 +1,6 @@
 let num = 3;
 done = false;
-x = "https://www.youtube.com";
+x = "https://www.tiktok.com";
 for (let i = 1; i <= num; i++) {
     history.pushState(0, 0, i == num ? x : i.toString());
     if (i == num) done = true;
