@@ -1,5 +1,5 @@
 # School Cheats
-Cheats curated for school chromebooks in no particular order. Feel free to make suggestions or pull requests
+Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests
 # Game Cheats
 ## Blooket
 [Blooket Hacks (courtesy of Minesraft2)](https://github.com/Minesraft2/Blooket-Cheats/)
