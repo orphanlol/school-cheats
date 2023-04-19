@@ -1,6 +1,5 @@
 # School Cheats
-Cheats curated for school chromebooks in no particular order
-Feel free to make suggestions or pull requests
+Cheats curated for school chromebooks in no particular order. Feel free to make suggestions or pull requests
 ## Proxies
 [Incognitio](https://incognito-production-9cd0.up.railway.app/)
 ## Communicate
