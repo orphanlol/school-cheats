@@ -16,6 +16,12 @@ javascript:var a0_0x2b5a=['203017IwhbHe','\x20div.scree','container\x20','sent',
 ```
 javascript:try{async function getSetId(a){const b=await fetch('https://quizlet.com/webapi/3.8/multiplayer/game-instance?gameCode='+a),c=await b['json']();if(c['error'])throw new Error(c['error']['message']);return c['gameInstance']['itemId'];}async function getSetData(a){const b=await fetch('https://quizlet.com/'+a),c=await b['text'](),d=c['match'](/\\"termIdToTermsMap\\":{.+?{.+?\\"termSort\\":/gi)?.[0x0];if(!d)throw new Error('Failed\x20to\x20parse\x20set\x20data.');const e=JSON['parse'](d['slice'](0x15,-0xe)['replaceAll']('\x5c\x22','\x22'));return[Object['fromEntries'](Object['values'](e)['map'](({word:f,definition:g})=>[f,g])),Object['fromEntries'](Object['values'](e)['map'](({word:f,definition:g})=>[g,f]))];}function getActiveQuestion(){try{const a=document['querySelector']('.StudentPrompt-text')['textContent'],b=Array['from'](document['querySelectorAll']('.StudentAnswerOption-text'));return[a,b];}catch{}return[null,null];}((async()=>{const a=prompt('Enter\x20PIN,\x20like:\x20XXX-XXX','')['match'](/[0-9a-zA-Z]/g)['join']('');if(a['length']!==0x6)throw new Error('Pin\x20must\x20be\x206\x20characters\x20in\x20length.');const b=await getSetId(a),[c,d]=await getSetData(b);setInterval(async function(){const [e,f]=getActiveQuestion();if(!e||!f)return;if(e in c)f['forEach'](g=>{if(g['textContent']===c[e])g['style']['fontWeight']='bolder';});else e in d?f['forEach'](g=>{if(g['textContent']===d[e])g['style']['fontWeight']='bolder';}):f['forEach'](g=>{g['style']['fontWeight']='normal';});},0x0);})());}catch(h){alert(h);}
 ```
+# Education App Cheats
+## DeltaMath
+copies the equation so you can put it into [symbolab](https://www.symbolab.com/) or something. Courtesy of [bribes](https://github.com/bribes/deltamath-equation-copier)
+```
+javascript:try{problemObj=problem.qlinesCopy[0],equation=problemObj.line?problemObj.line:`${problemObj.left.replace(/[{}]/g,"")}=${problemObj.right}`,prompt("Equation:",equation)}catch{alert("Equation not detected!")};void 0
+```
 # Various Tools
 ## Inspect Element
 Console (courtesy of SnowLord)
