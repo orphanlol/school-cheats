@@ -53,12 +53,9 @@ idk what this does I haven't tested it yet but its a live hack
 javascript:try{async function getSetId(a){const b=await fetch('https://quizlet.com/webapi/3.8/multiplayer/game-instance?gameCode='+a),c=await b['json']();if(c['error'])throw new Error(c['error']['message']);return c['gameInstance']['itemId'];}async function getSetData(a){const b=await fetch('https://quizlet.com/'+a),c=await b['text'](),d=c['match'](/\\"termIdToTermsMap\\":{.+?{.+?\\"termSort\\":/gi)?.[0x0];if(!d)throw new Error('Failed\x20to\x20parse\x20set\x20data.');const e=JSON['parse'](d['slice'](0x15,-0xe)['replaceAll']('\x5c\x22','\x22'));return[Object['fromEntries'](Object['values'](e)['map'](({word:f,definition:g})=>[f,g])),Object['fromEntries'](Object['values'](e)['map'](({word:f,definition:g})=>[g,f]))];}function getActiveQuestion(){try{const a=document['querySelector']('.StudentPrompt-text')['textContent'],b=Array['from'](document['querySelectorAll']('.StudentAnswerOption-text'));return[a,b];}catch{}return[null,null];}((async()=>{const a=prompt('Enter\x20PIN,\x20like:\x20XXX-XXX','')['match'](/[0-9a-zA-Z]/g)['join']('');if(a['length']!==0x6)throw new Error('Pin\x20must\x20be\x206\x20characters\x20in\x20length.');const b=await getSetId(a),[c,d]=await getSetData(b);setInterval(async function(){const [e,f]=getActiveQuestion();if(!e||!f)return;if(e in c)f['forEach'](g=>{if(g['textContent']===c[e])g['style']['fontWeight']='bolder';});else e in d?f['forEach'](g=>{if(g['textContent']===d[e])g['style']['fontWeight']='bolder';}):f['forEach'](g=>{g['style']['fontWeight']='normal';});},0x0);})());}catch(h){alert(h);}
 ```
 ## Kahoot
-Cool kahoot hacks made by unixpickle, though requires download. Includes flooder and auto answer <br>
-[Kahoot Hacks](https://github.com/unixpickle/kahoot-hack) <br>
-Another kahoot auto answer bot made by Raymo111, though requires download as well <br>
-[Kahoot Answer Bot](https://github.com/Raymo111/kahoot-answer-bot) <br>
-Kitty Tools, a hack made by CPScript. Offers answer hacks and flood (requires download) <br>
-[Kitty Tools](https://github.com/CPScript/Kitty-Tools) <br>
+[Cool kahoot hacks](https://github.com/unixpickle/kahoot-hack) made by unixpickle, though requires download. Includes flooder and auto answer <br>
+Another [kahoot auto answer bot](https://github.com/Raymo111/kahoot-answer-bot) made by Raymo111, though requires download as well <br>
+[Kitty Tools](https://github.com/CPScript/Kitty-Tools), a hack made by CPScript. Offers answer hacks and flood (requires download) <br>
 I couldn't find any that didn't require a download, but you can search for more on [github](https://github.com/search?p=1&q=kahoot&type=Repositories).
 # Education App Cheats
 ## DeltaMath
@@ -112,5 +109,5 @@ Bypasses most school filters <br>
 [Incognitio](https://incognito-production-9cd0.up.railway.app/)
 ## Additional Hacks
 [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
-[UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits)
+[UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits) <br>
 [Cheat network](https://cheatnetwork.eu/)
