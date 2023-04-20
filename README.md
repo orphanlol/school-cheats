@@ -27,8 +27,6 @@ Cheats curated for school chromebooks in no particular order. Feel free to make 
 I am working on updating this repository as much as I can, but my busy work schedule may impede with that. I read every suggestion that you make, and I will be adding them when I have the time
 ## <u>Do you take requests for hacks?</u>
 Yes, I do. However, you should search if the hack exists first before requesting me to make it, and be warned that it might take a lot of time due to my busy schedule. Feel free to suggest any hacks for me to work on.
-## <u>Why are there no I-Ready hacks on here?</u>
-I-Ready recently patched any bookmarklets, and I did not feel inclined to put any hacks that don't work on the school chromebooks. You can search for ones on GitHub, though. (a great one is [jVoid](https://github.com/j6xontop/jVoid))
 ## <u>Are you going to add a free Chat-GPT onto here?</u>
 Yes, I am working on it. It has been delayed due to openai's buggy api, but you can search for ones online if you want it.
 # Tips & Tricks
@@ -52,12 +50,23 @@ idk what this does I haven't tested it yet but its a live hack
 ```
 javascript:try{async function getSetId(a){const b=await fetch('https://quizlet.com/webapi/3.8/multiplayer/game-instance?gameCode='+a),c=await b['json']();if(c['error'])throw new Error(c['error']['message']);return c['gameInstance']['itemId'];}async function getSetData(a){const b=await fetch('https://quizlet.com/'+a),c=await b['text'](),d=c['match'](/\\"termIdToTermsMap\\":{.+?{.+?\\"termSort\\":/gi)?.[0x0];if(!d)throw new Error('Failed\x20to\x20parse\x20set\x20data.');const e=JSON['parse'](d['slice'](0x15,-0xe)['replaceAll']('\x5c\x22','\x22'));return[Object['fromEntries'](Object['values'](e)['map'](({word:f,definition:g})=>[f,g])),Object['fromEntries'](Object['values'](e)['map'](({word:f,definition:g})=>[g,f]))];}function getActiveQuestion(){try{const a=document['querySelector']('.StudentPrompt-text')['textContent'],b=Array['from'](document['querySelectorAll']('.StudentAnswerOption-text'));return[a,b];}catch{}return[null,null];}((async()=>{const a=prompt('Enter\x20PIN,\x20like:\x20XXX-XXX','')['match'](/[0-9a-zA-Z]/g)['join']('');if(a['length']!==0x6)throw new Error('Pin\x20must\x20be\x206\x20characters\x20in\x20length.');const b=await getSetId(a),[c,d]=await getSetData(b);setInterval(async function(){const [e,f]=getActiveQuestion();if(!e||!f)return;if(e in c)f['forEach'](g=>{if(g['textContent']===c[e])g['style']['fontWeight']='bolder';});else e in d?f['forEach'](g=>{if(g['textContent']===d[e])g['style']['fontWeight']='bolder';}):f['forEach'](g=>{g['style']['fontWeight']='normal';});},0x0);})());}catch(h){alert(h);}
 ```
+## Kahoot
+Cool kahoot hacks made by unixpickle, though requires download. Includes flooder and auto answer <br>
+[Kahoot Hacks](https://github.com/unixpickle/kahoot-hack) <br>
+Another kahoot auto answer bot made by Raymo111, though requires download as well <br>
+[Kahoot Answer Bot](https://github.com/Raymo111/kahoot-answer-bot) <br>
+Kitty Tools, a hack made by CPScript. Offers answer hacks and flood (requires download) <br>
+[Kitty Tools](https://github.com/CPScript/Kitty-Tools) <br>
+I couldn't find any that didn't require a download, but you can search for more on [github](https://github.com/search?p=1&q=kahoot&type=Repositories).
 # Education App Cheats
 ## DeltaMath
-copies the equation so you can put it into [symbolab](https://www.symbolab.com/) or something. Courtesy of [bribes](https://github.com/bribes/deltamath-equation-copier)
+copies the equation so you can put it into [symbolab](https://www.symbolab.com/) or something. You can search for better one on [github](https://github.com/search?q=deltamath&type=Repositories). Credit to [bribes](https://github.com/bribes/deltamath-equation-copier)
 ```
 javascript:try{problemObj=problem.qlinesCopy[0],equation=problemObj.line?problemObj.line:`${problemObj.left.replace(/[{}]/g,"")}=${problemObj.right}`,prompt("Equation:",equation)}catch{alert("Equation not detected!")};void 0
 ```
+## I-Ready
+I-Ready recently patched any bookmarklets, but here is one that works. You can search for more on [github](https://github.com/search?q=iready&type=Repositories)<br>
+[jVoid](https://github.com/j6xontop/jVoid)
 # Various Tools
 ## Inspect Element
 Console (courtesy of SnowLord)
@@ -102,3 +111,4 @@ Bypasses most school filters <br>
 ## Additional Hacks
 [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
 [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits)
+[Cheat network](https://cheatnetwork.eu/)
