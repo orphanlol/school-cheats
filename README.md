@@ -1,6 +1,11 @@
 # School Cheats
 Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests <br>
-## Table of Contents
+# FAQ
+## <u>When are you going to add hack x onto here?</u>
+I am working on updating this repository as much as I can, but my busy work schedule may impede with that. I read every suggestion that you make, and I will be adding them when I have the time
+## <u>Why are there no I-Ready hacks on here?</u>
+I-Ready recently patched any bookmarklets, and I did not feel inclined to put any hacks that don't work on the school chromebooks. You can search for ones on GitHub, though. (a great one is [jVoid](https://github.com/j6xontop/jVoid))
+## <u><b>Table of Contents</b></u>
 - [Game Cheats](#game-cheats)
     - [Blooket](#blooket)
     - [Gimkit](#gimkit)
