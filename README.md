@@ -1,5 +1,6 @@
 # School Cheats
 Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests
+[](#game-cheats)
 # Game Cheats
 ## Blooket
 [Blooket Hacks (courtesy of Minesraft2)](https://github.com/Minesraft2/Blooket-Cheats/)
@@ -65,3 +66,6 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ## Proxies
 Bypasses most school filters
 [Incognitio](https://incognito-production-9cd0.up.railway.app/)
+## Additional hacks
+[Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets)
+[UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits)
