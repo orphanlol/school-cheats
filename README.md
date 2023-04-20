@@ -1,6 +1,24 @@
 # School Cheats
-Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests
-[](#game-cheats)
+Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests <br>
+## Table of Contents
+- [Game Cheats](#game-cheats)
+    - [Blooket](#blooket)
+    - [Gimkit](#gimkit)
+    - [Quizizz](#quizizz)
+    - [Quizlet](#quizlet)
+- [Education App Cheats](#education-app-cheats)
+    - [DeltaMath](#deltamath)
+- [Various Tools](#various-tools)
+    - [Inspect Element](#inspect-element)
+    - [History Flooder](#history-flooder)
+    - [X-ray Goggles](#x-ray-goggles)
+    - [Edit Page](#edit-page)
+    - [Communicate](#communicate)
+- [Trolls/Pranks](#trollspranks)
+    - [Rickroll](#rickroll)
+- [Miscellaneous](#miscellaneous)
+    - [Proxies](#proxies)
+    - [Additional Hacks](#additional-hacks)
 # Game Cheats
 ## Blooket
 [Blooket Hacks (courtesy of Minesraft2)](https://github.com/Minesraft2/Blooket-Cheats/)
@@ -64,8 +82,8 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ```
 # Miscellaneous
 ## Proxies
-Bypasses most school filters
+Bypasses most school filters <br>
 [Incognitio](https://incognito-production-9cd0.up.railway.app/)
-## Additional hacks
-[Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets)
+## Additional Hacks
+[Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
 [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits)
