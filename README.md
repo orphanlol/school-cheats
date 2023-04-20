@@ -3,8 +3,12 @@ Cheats curated for school chromebooks in no particular order. Feel free to make 
 # FAQ
 ## <u>When are you going to add hack x onto here?</u>
 I am working on updating this repository as much as I can, but my busy work schedule may impede with that. I read every suggestion that you make, and I will be adding them when I have the time
+## <u>Do you take requests for hacks?</u>
+Yes, I do. However, you should search if the hack exists first before requesting me to make it, and be warned that it might take a lot of time due to my busy schedule. Feel free to suggest any hacks for me to work on.
 ## <u>Why are there no I-Ready hacks on here?</u>
 I-Ready recently patched any bookmarklets, and I did not feel inclined to put any hacks that don't work on the school chromebooks. You can search for ones on GitHub, though. (a great one is [jVoid](https://github.com/j6xontop/jVoid))
+## <u>Are you going to add a free Chat-GPT onto here?</u>
+Yes, I am working on it. It has been delayed due to openai's buggy api, but you can search for ones online if you want it.
 ## <u><b>Table of Contents</b></u>
 - [Game Cheats](#game-cheats)
     - [Blooket](#blooket)
