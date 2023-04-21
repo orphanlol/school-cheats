@@ -54,7 +54,7 @@ javascript:try{async function getSetId(a){const b=await fetch('https://quizlet.c
 ```
 ## Kahoot
 [Cool kahoot hacks](https://github.com/unixpickle/kahoot-hack) made by unixpickle, though requires download. Includes flooder and auto answer <br>
-Another [kahoot auto answer bot](https://github.com/Raymo111/kahoot-answer-bot) made by Raymo111, though requires download as well <br>
+[Kahoot auto answer bot](https://github.com/Raymo111/kahoot-answer-bot) made by Raymo111, though requires download as well <br>
 [Kitty Tools](https://github.com/CPScript/Kitty-Tools), a hack made by CPScript. Offers answer hacks and flood (requires download) <br>
 I couldn't find any that didn't require a download, but you can search for more on [github](https://github.com/search?p=1&q=kahoot&type=Repositories).
 # Education App Cheats
@@ -64,8 +64,7 @@ copies the equation so you can put it into [symbolab](https://www.symbolab.com/)
 javascript:try{problemObj=problem.qlinesCopy[0],equation=problemObj.line?problemObj.line:`${problemObj.left.replace(/[{}]/g,"")}=${problemObj.right}`,prompt("Equation:",equation)}catch{alert("Equation not detected!")};void 0
 ```
 ## I-Ready
-I-Ready recently patched any bookmarklets, but here is one that works. You can search for more on [github](https://github.com/search?q=iready&type=Repositories)<br>
-[jVoid](https://github.com/j6xontop/jVoid)
+I-Ready recently patched any bookmarklets, but [here](https://github.com/j6xontop/jVoid) is one that works. You can search for more on [github](https://github.com/search?q=iready&type=Repositories)<br>
 # Various Tools
 ## Inspect Element
 Console (courtesy of SnowLord)
@@ -105,8 +104,7 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ```
 # Miscellaneous
 ## Proxies
-Bypasses most school filters <br>
-[Incognitio](https://incognito-production-9cd0.up.railway.app/)
+[Incognitio](https://incognito-production-9cd0.up.railway.app/) | Bypasses most school filters
 ## Additional Hacks
 [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
 [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits) <br>
