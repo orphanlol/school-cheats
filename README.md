@@ -108,4 +108,4 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ## Additional Hacks
 [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
 [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits) <br>
-[Cheat network](https://cheatnetwork.eu/)
+[Cheat Network](https://cheatnetwork.eu/)
