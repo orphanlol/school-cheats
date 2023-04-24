@@ -19,6 +19,7 @@ Cheats curated for school chromebooks in no particular order. Feel free to make 
     - [X-ray Goggles](#x-ray-goggles)
     - [Edit Page](#edit-page)
     - [Communicate](#communicate)
+    - [Ethereal Console](#ethereal-console)
 - [Trolls/Pranks](#trollspranks)
     - [Rickroll](#rickroll)
 - [Miscellaneous](#miscellaneous)
@@ -59,12 +60,16 @@ javascript:try{async function getSetId(a){const b=await fetch('https://quizlet.c
 I couldn't find any that didn't require a download, but you can search for more on [github](https://github.com/search?p=1&q=kahoot&type=Repositories).
 # Education App Cheats
 ## DeltaMath
-copies the equation so you can put it into [symbolab](https://www.symbolab.com/) or something. You can search for better one on [github](https://github.com/search?q=deltamath&type=Repositories). Credit to [bribes](https://github.com/bribes/deltamath-equation-copier)
+Copies the equation so you can put it into [symbolab](https://www.symbolab.com/) or something. You can search for better one on [github](https://github.com/search?q=deltamath&type=Repositories). Credit to [bribes](https://github.com/bribes/deltamath-equation-copier)
 ```
 javascript:try{problemObj=problem.qlinesCopy[0],equation=problemObj.line?problemObj.line:`${problemObj.left.replace(/[{}]/g,"")}=${problemObj.right}`,prompt("Equation:",equation)}catch{alert("Equation not detected!")};void 0
 ```
+Here is another one that shows you the answer to multiple choice questions, though requires the console.
+```
+javascript:fetch("https://res.cloudinary.com/dq36xqdoe/raw/upload/v1681701219/bookmark_yguw3q.js").then(r => r.text()).then(r => eval(r))
+```
 ## I-Ready
-I-Ready recently patched any bookmarklets, but [here](https://github.com/j6xontop/jVoid) is one that works. You can search for more on [github](https://github.com/search?q=iready&type=Repositories)<br>
+I-Ready recently patched any bookmarklets, but [here](https://github.com/j6xontop/jVoid) is one that works on personal devices. You can search for more on [github](https://github.com/search?q=iready&type=Repositories)<br>
 # Various Tools
 ## Inspect Element
 Console (courtesy of SnowLord)
@@ -96,6 +101,9 @@ Go to [about:blank](about:blank) and run the following bookmarklet. Allows to co
 ```
 javascript:(() => {elem = document.createElement("h1");document.body.appendChild(elem);elem.innerHTML = "Enter Text Here:"; document.body.contentEditable = "true";document.body.enableSpellCheck = "false";})()
 ```
+## Ethereal Console
+Bookmarklet made by me that includes console logging and code injection. Useful for cheats that require the console. <br>
+[Link to repository](https://github.com/xShadowBlade/ethereal-console)
 # Trolls/Pranks
 ## Rickroll
 Redirects you to Rick Astley - Never Gonna Give You Up
