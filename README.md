@@ -25,6 +25,8 @@ Cheats curated for school chromebooks in no particular order. Feel free to make 
     - [Rickroll](#rickroll)
 - [Miscellaneous](#miscellaneous)
     - [Proxies](#proxies)
+        - [Incognito](#incognitio)
+        - [Browser Emulator](#browser-emulator)
     - [Additional Hacks](#additional-hacks)
 # FAQ
 ## <u>When are you going to add hack x onto here?</u>
@@ -33,6 +35,8 @@ I am working on updating this repository as much as I can, but my busy work sche
 Yes, I do. However, you should search if the hack exists first before requesting me to make it, and be warned that it might take a lot of time due to my busy schedule. Feel free to suggest any hacks for me to work on.
 ## <u>Are you going to add a free Chat-GPT onto here?</u>
 Yes, I am working on it. It has been delayed due to openai's buggy api, but you can search for ones online if you want it.
+## <u>When are you going to put a working proxy on here?</u>
+Soon. I am working on hosting [Incognito](https://github.com/amethystnetwork-dev/Incognito) on my own server, but it is buggy and I am trying to make it stable. If you want, you can research more on the link above.
 # Tips & Tricks
 ## Signing into another google account
 You can sign into another google account if you log out of the chromebook session via another device and logging onto another account. More explained [here](https://github.com/UntrustableRus/awesome-school-exploits#add-personal-account)
@@ -118,7 +122,14 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ```
 # Miscellaneous
 ## Proxies
-[Incognitio](https://incognito-production-9cd0.up.railway.app/) | Bypasses most school filters (doesn't work anymore, Ill find another one when I get the chance.)
+### [Incognitio](https://incognito-production-9cd0.up.railway.app/) 
+Bypasses most school filters (doesn't work anymore, Ill find another one when I get the chance.)
+### [Browser Emulator](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment) 
+1. Go to the page and run the replit
+2. Select firefox [type 2 and enter] (chrome does not work)
+3. Enjoy*
+<br> *There are many bugs, Ill update the instructions when I have more time
+<br> *Note this is meant to be a temporary proxy, I'm working on hosting one soon.
 ## Additional Hacks
 [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
 [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits) <br>
