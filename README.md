@@ -2,6 +2,7 @@
 Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests <br>
 ## <u><b>Table of Contents</b></u>
 - [FAQ](#faq)
+- [Bookmarklet Tutorial](#bookmarklet-tutorial)
 - [Tips and Tricks](#tips--tricks)
     - [Signing into another google account](#signing-into-another-google-account)
 - [Game Cheats](#game-cheats)
@@ -35,6 +36,12 @@ I am working on updating this repository as much as I can, but my busy work sche
 Yes, I do. However, you should search if the hack exists first before requesting me to make it, and be warned that it might take a lot of time due to my busy schedule. Feel free to suggest any hacks for me to work on.
 ## <u>Are you going to add a free Chat-GPT onto here?</u>
 Yes, I am working on it. It has been delayed due to openai's buggy api, but you can search for ones online if you want it.
+<br> Check every 2-3 days for an update!
+# Bookmarklet Tutorial
+Step 1. Enable bookmark bar (if not done so already)
+Step 2. Right click (alt + click on chromebooks) on the bookmark bar
+Step 3. Click on "Add page..."
+Step 4. 
 # Tips & Tricks
 ## Signing into another google account
 You can sign into another google account if you log out of the chromebook session via another device and logging onto another account. More explained [here](https://github.com/UntrustableRus/awesome-school-exploits#add-personal-account)
@@ -117,7 +124,8 @@ Go to the page and click the bookmark.
 javascript:function _0x41b3(_0x144bf9,_0x1c4bb7){var _0x231191=_0x2311();return _0x41b3=function(_0x41b324,_0x98ede2){_0x41b324=_0x41b324-0xc9;var _0x2577d2=_0x231191[_0x41b324];return _0x2577d2;},_0x41b3(_0x144bf9,_0x1c4bb7);}(function(_0xb23d45,_0x24402d){var _0x6c84a5=_0x41b3,_0x525077=_0xb23d45();while(!![]){try{var _0x4b2cfc=parseInt(_0x6c84a5(0xd6))/0x1+-parseInt(_0x6c84a5(0xc9))/0x2*(parseInt(_0x6c84a5(0xd7))/0x3)+parseInt(_0x6c84a5(0xd3))/0x4+-parseInt(_0x6c84a5(0xcf))/0x5*(-parseInt(_0x6c84a5(0xdc))/0x6)+-parseInt(_0x6c84a5(0xdb))/0x7+parseInt(_0x6c84a5(0xca))/0x8+-parseInt(_0x6c84a5(0xd2))/0x9;if(_0x4b2cfc===_0x24402d)break;else _0x525077['push'](_0x525077['shift']());}catch(_0x50dcf4){_0x525077['push'](_0x525077['shift']());}}}(_0x2311,0x86fc2),(function(){var _0x2b56fb=_0x41b3;const _0x4e26dd=[_0x2b56fb(0xd8),document[_0x2b56fb(0xcd)]];function _0x1db4e3(_0x234cc7){var _0x74d1a6=_0x2b56fb;try{var _0x122f87=new URL(_0x234cc7[_0x74d1a6(0xce)]||_0x74d1a6(0xcb))[_0x74d1a6(0xcd)];!_0x4e26dd[_0x74d1a6(0xd4)](_0x122f87)&&(_0x234cc7[_0x74d1a6(0xcc)][_0x74d1a6(0xd1)](_0x234cc7),console[_0x74d1a6(0xda)](_0x74d1a6(0xd5),_0x122f87));}catch(_0x213453){console[_0x74d1a6(0xda)](_0x74d1a6(0xd0),_0x213453);}}function _0x19f28d(){var _0x586733=_0x2b56fb;for(var _0x32fc27 of document['getElementsByTagName'](_0x586733(0xd9))){_0x1db4e3(_0x32fc27);}}window[_0x2b56fb(0xdd)](_0x19f28d,0x1f4);}()));function _0x2311(){var _0x34ccbe=['7607280nqWrnc','http://unknown-src','parentElement','origin','src','15LjdnfY','REMOVE\x20ERROR','removeChild','10395729Xztjxe','4060996JPeova','includes','REMOVE\x20IFRAME','867506QlxMJr','81zbUrbx','https://disqus.com','iframe','log','6154274qRxMnj','711246DpXiEF','setInterval','44602uSjBGX'];_0x2311=function(){return _0x34ccbe;};return _0x2311();}
 ```
 ## Disguise Tab
-Changes the title and icon of the tab
+Changes the title and icon of the tab (Protip: The disguise shows up in your history as such, not just for the current page, but for all past pages of the same url!)
+<br>Note: icons won't work if the website has a CORS policy that blocks it
 ```
 javascript:function _0x3ced(_0x40ca56,_0x19bc28){const _0x1a0c8f=_0x2651();return _0x3ced=function(_0x36876f,_0x3dfb1d){_0x36876f=_0x36876f-0xe5;let _0x437dc2=_0x1a0c8f[_0x36876f];return _0x437dc2;},_0x3ced(_0x40ca56,_0x19bc28);}function _0x2651(){const _0x57116a=['1825227BBGQys','5xXjBZC','23618AJAyWa','table','rel','console','appendChild','Google\x20Slides','title','24245782WdglOM','getElementsByTagName','log','4krhhoF','warn','constructor','15092880GykqDY','href','toString','return\x20(function()\x20','prototype','icon','trace','__proto__','link[rel*=\x27icon\x27]','link','shortcut\x20icon','Google\x20Docs','type','New\x20Tab','1302mwLefw','bind','9225243VHIiNC','What\x20should\x20the\x20title\x20be?\x20(type\x20numbers\x20for\x20presets)\x20','apply','https://ssl.gstatic.com/classroom/favicon.png','name','8ydpJZP','4421572kyqpzu','https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png','https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico','error','head','15988WIElyl','length'];_0x2651=function(){return _0x57116a;};return _0x2651();}(function(_0x4d67ad,_0x500089){const _0x1890ad=_0x3ced,_0x15f679=_0x4d67ad();while(!![]){try{const _0x1f76fa=parseInt(_0x1890ad(0x109))/0x1*(parseInt(_0x1890ad(0xff))/0x2)+parseInt(_0x1890ad(0xfd))/0x3+parseInt(_0x1890ad(0xf6))/0x4*(parseInt(_0x1890ad(0xfe))/0x5)+-parseInt(_0x1890ad(0xee))/0x6*(parseInt(_0x1890ad(0xfb))/0x7)+parseInt(_0x1890ad(0xf5))/0x8*(-parseInt(_0x1890ad(0xf0))/0x9)+-parseInt(_0x1890ad(0x10c))/0xa+parseInt(_0x1890ad(0x106))/0xb;if(_0x1f76fa===_0x500089)break;else _0x15f679['push'](_0x15f679['shift']());}catch(_0x2992e4){_0x15f679['push'](_0x15f679['shift']());}}}(_0x2651,0xe4559),(function(){const _0xfa6887=_0x3ced,_0x19465f=(function(){let _0x3a685a=!![];return function(_0x40ef2f,_0x28bde0){const _0x5e5fbb=_0x3a685a?function(){const _0x271a63=_0x3ced;if(_0x28bde0){const _0x176181=_0x28bde0[_0x271a63(0xf2)](_0x40ef2f,arguments);return _0x28bde0=null,_0x176181;}}:function(){};return _0x3a685a=![],_0x5e5fbb;};}()),_0x5c546c=[{'name':_0xfa6887(0xed),'icon':''},{'name':'Classes','icon':_0xfa6887(0xf3)},{'name':'My\x20Drive\x20-\x20Google\x20Drive','icon':_0xfa6887(0xf7)},{'name':_0xfa6887(0xeb),'icon':_0xfa6887(0xf8)},{'name':_0xfa6887(0x104),'icon':'https://ssl.gstatic.com/docs/presentations/images/favicon5.ico'}];function _0x444e2e(_0x3a52d1){const _0x42a96e=_0xfa6887;var _0x324aa8=document['querySelector'](_0x42a96e(0xe8))||document['createElement'](_0x42a96e(0xe9));_0x324aa8[_0x42a96e(0xec)]='image/x-icon',_0x324aa8[_0x42a96e(0x101)]=_0x42a96e(0xea),_0x324aa8[_0x42a96e(0x10d)]=_0x3a52d1,document[_0x42a96e(0x107)](_0x42a96e(0xfa))[0x0][_0x42a96e(0x103)](_0x324aa8);}function _0x55bba0(_0x293147,_0x3feb16){const _0x3703c7=_0xfa6887,_0x2c2a85=_0x19465f(this,function(){const _0x217a5b=_0x3ced,_0x52d5ff=function(){const _0x4b40e3=_0x3ced;let _0x2e5acb;try{_0x2e5acb=Function(_0x4b40e3(0x10f)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x55dc7a){_0x2e5acb=window;}return _0x2e5acb;},_0x510751=_0x52d5ff(),_0x504a4c=_0x510751[_0x217a5b(0x102)]=_0x510751[_0x217a5b(0x102)]||{},_0x3d441c=[_0x217a5b(0x108),_0x217a5b(0x10a),'info',_0x217a5b(0xf9),'exception',_0x217a5b(0x100),_0x217a5b(0xe6)];for(let _0x36308f=0x0;_0x36308f<_0x3d441c[_0x217a5b(0xfc)];_0x36308f++){const _0x1de716=_0x19465f[_0x217a5b(0x10b)][_0x217a5b(0x110)]['bind'](_0x19465f),_0x5b3092=_0x3d441c[_0x36308f],_0x48b0db=_0x504a4c[_0x5b3092]||_0x1de716;_0x1de716[_0x217a5b(0xe7)]=_0x19465f[_0x217a5b(0xef)](_0x19465f),_0x1de716[_0x217a5b(0x10e)]=_0x48b0db[_0x217a5b(0x10e)][_0x217a5b(0xef)](_0x48b0db),_0x504a4c[_0x5b3092]=_0x1de716;}});_0x2c2a85(),_0x444e2e(_0x3feb16),document[_0x3703c7(0x105)]=_0x293147;}let _0xe9c52='';for(let _0x5dd37a=0x0;_0x5dd37a<_0x5c546c[_0xfa6887(0xfc)];_0x5dd37a++){const _0x4ec665=_0x5c546c[_0x5dd37a];_0xe9c52+='\x0a\x20'+_0x5dd37a+':\x20'+_0x4ec665[_0xfa6887(0xf4)];}const _0x330e02=prompt(_0xfa6887(0xf1)+_0xe9c52);if(!isNaN(parseInt(_0x330e02)))_0x55bba0(_0x5c546c[parseInt(_0x330e02)][_0xfa6887(0xf4)],_0x5c546c[parseInt(_0x330e02)][_0xfa6887(0xe5)]);else{const _0x48cd3e=prompt('What\x20should\x20the\x20icon\x20url\x20be?\x20(leave\x20blank\x20for\x20nothing)');_0x55bba0(_0x330e02,_0x48cd3e);}alert('To\x20get\x20icon\x20urls,\x20visit\x20https://s2.googleusercontent.com/s2/favicons?domain={Domain\x20Here}.\x20Note\x20icons\x20may\x20take\x20a\x20bit\x20to\x20load.');}()));
 ```
@@ -129,6 +137,7 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ```
 # Miscellaneous
 ## Proxies
+Proxies bypass the filter and allow you to view most pages.
 ### [Holy Unblocker](https://mxrdlup.org)
 Cool unblocker, can be a bit laggy (works at school, doesn't work at home)
 ### [Rammerhead](https://achievementnetwork.ga/)
@@ -142,7 +151,7 @@ Barebones web proxy with cookies storage available (works at home, doesn't work 
 Very laggy, pretty much needs a mouse
 
 ## AI Tools
-ChatGPT doesn't work on school chromebooks for some reason (probally due to networking), so here are some alternatives (I havent tested them yet, let me know how well they work)
+[ChatGPT](https://chat.openai.com/) doesn't work on school chromebooks for some reason (probally due to networking), so here are some alternatives (I havent tested them yet, let me know how well they work)
 ### [Writesonic](https://writesonic.com/chat)
 ChatGPT alternative. (needs account, free trial for 10,000 words)
 ### [Humata](https://www.humata.ai/)
