@@ -129,17 +129,15 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ```
 # Miscellaneous
 ## Proxies
-### [Holy Unblocker](https://mxrdlup.org)
-(Recommended) Cool unblocker, has some ads
 ### [Rammerhead](https://achievementnetwork.ga/)
-Barebones web proxy with cookies storage available
+Barebones web proxy with cookies storage availablev (I couldn't find any that weren't blocked)
 ### [Browser Emulator](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment) 
 1. Go to the page and run the replit
 2. Select firefox [type 2 and enter] (chrome does not work)
 3. Enjoy*
 <br> *There are many bugs, Ill update the instructions when I have more time
 ### [Android Emulator](https://now.gg/play/uncube/7074/now)
-Very laggy, needs* a mouse
+Very laggy, pretty much needs a mouse
 
 ## AI Tools
 ChatGPT doesn't work on school chromebooks for some reason (probally due to networking), so here are some alternatives (I havent tested them yet, let me know how well they work)
