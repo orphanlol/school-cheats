@@ -129,9 +129,10 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ```
 # Miscellaneous
 ## Proxies
+### [Holy Unblocker](https://mxrdlup.org)
+Cool unblocker, can be a bit laggy (works at school, doesn't work at home)
 ### [Rammerhead](https://achievementnetwork.ga/)
-Barebones web proxy with cookies storage available (blocked)
-<br> (I couldn't find any that weren't blocked, sorry)
+Barebones web proxy with cookies storage available (works at home, doesn't work at school)
 ### [Browser Emulator](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment) 
 1. Go to the page and run the replit
 2. Select firefox [type 2 and enter] (chrome does not work)
