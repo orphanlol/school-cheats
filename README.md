@@ -126,14 +126,16 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ```
 # Miscellaneous
 ## Proxies
-### [Incognitio](https://incognito-production-9cd0.up.railway.app/) 
-Bypasses most school filters (doesn't work anymore, Ill find another one when I get the chance.)
+(I have more, but I won't list them incase the school sees this)
+### Holy Unblocker Proxies
+[Holy Unblocker 1](https://whackylightbulb.org/)
+## Ultraviolet Proxies
+[Ultraviolet 1](https://2beat.io/)
 ### [Browser Emulator](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment) 
 1. Go to the page and run the replit
 2. Select firefox [type 2 and enter] (chrome does not work)
 3. Enjoy*
 <br> *There are many bugs, Ill update the instructions when I have more time
-<br> *Note this is meant to be a temporary proxy, I'm [working on hosting one soon](#when-are-you-going-to-put-a-working-proxy-on-here).
 ## Additional Hacks
 [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
 [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits) <br>
