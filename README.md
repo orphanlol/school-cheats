@@ -26,6 +26,7 @@ Cheats curated for school chromebooks in no particular order. Feel free to make 
     - [Rickroll](#rickroll)
 - [Miscellaneous](#miscellaneous)
     - [Proxies](#proxies)
+    - [AI Tools](#ai-tools)
     - [Additional Hacks](#additional-hacks)
 # FAQ
 ## <u>When are you going to add hack x onto here?</u>
@@ -34,8 +35,6 @@ I am working on updating this repository as much as I can, but my busy work sche
 Yes, I do. However, you should search if the hack exists first before requesting me to make it, and be warned that it might take a lot of time due to my busy schedule. Feel free to suggest any hacks for me to work on.
 ## <u>Are you going to add a free Chat-GPT onto here?</u>
 Yes, I am working on it. It has been delayed due to openai's buggy api, but you can search for ones online if you want it.
-## <u>When are you going to put a working proxy on here?</u>
-Soon. I am working on hosting [Incognito](https://github.com/amethystnetwork-dev/Incognito) on my own server, but it is buggy and I am trying to make it stable. If you want, you can research more on the link above.
 # Tips & Tricks
 ## Signing into another google account
 You can sign into another google account if you log out of the chromebook session via another device and logging onto another account. More explained [here](https://github.com/UntrustableRus/awesome-school-exploits#add-personal-account)
@@ -130,16 +129,28 @@ javascript:(function(_0x54b141,_0x5ec292){function _0xf54eaa(_0x1828ed,_0x44e1f5
 ```
 # Miscellaneous
 ## Proxies
-(I have more, but I won't list them incase the school sees this)
-### Holy Unblocker Proxies
-[Holy Unblocker 1](https://whackylightbulb.org/)
-## Ultraviolet Proxies
-[Ultraviolet 1](https://2beat.io/)
+### [Holy Unblocker](mxrdlup.org)
+(Recommended) Cool unblocker, has some ads
+### [Rammerhead](https://achievementnetwork.ga/)
+Barebones web proxy with cookies storage available
 ### [Browser Emulator](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment) 
 1. Go to the page and run the replit
 2. Select firefox [type 2 and enter] (chrome does not work)
 3. Enjoy*
 <br> *There are many bugs, Ill update the instructions when I have more time
+### [Android Emulator](https://now.gg/play/uncube/7074/now)
+Very laggy, needs* a mouse
+
+## AI Tools
+ChatGPT doesn't work on school chromebooks for some reason, so here are some alternatives (I havent tested them yet, lmk how well they work)
+### [Writesonic](https://writesonic.com/chat)
+ChatGPT alternative. (needs account, free trial for 10,000 words)
+### [Humata](https://www.humata.ai/)
+AI tool to help you write essays and paragraphs. (needs account, easy to setup)
+### [BlueWillow](https://www.bluewillow.ai/)
+AI tool that generates images (needs discord)
+### [You Chatbot](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+Simple chat bot
 ## Additional Hacks
 [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
 [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits) <br>
