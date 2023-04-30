@@ -1,6 +1,8 @@
 <img src="./images/banner.png">
 <div align="center">
-Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests <br>
+Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests
+<br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
+<br>
 <img src="https://img.shields.io/github/stars/xShadowBlade/school-cheats?color=yellow&style=for-the-badge">
 <a href="https://github.com/xShadowBlade/school-cheats/graphs/traffic" alt=""><img src="https://img.shields.io/github/watchers/xShadowBlade/school-cheats?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/xShadowBlade/school-cheats/issues" alt=""><img src="https://img.shields.io/github/issues/xShadowBlade/school-cheats?style=for-the-badge"></a>
@@ -50,16 +52,23 @@ Check every 2-3 days for an update! <br>
 </div>
 
 # Bookmarklet Tutorial
-Step 1. Enable bookmark bar (if not done so already)
-Step 2. Right click (alt + click on chromebooks) on the bookmark bar
-Step 3. Click on "Add page..."
-Step 4. 
+Step 1. Enable bookmark bar (if not done so already) 
+<br> Step 2. Right click (alt + click on chromebooks) on the bookmark bar
+<br> Step 3. Click on "Add page..."
+<br> Step 4. Paste the code in the "URL" field
+<br> Step 5. Click the "Save" button near the bottom
+<br> Step 6. Go to the site listed and click the bookmark
+<br> Step 7. Enjoy!
+
 # Tips & Tricks
 ## Signing into another google account
 You can sign into another google account if you log out of the chromebook session via another device and logging onto another account. More explained [here](https://github.com/UntrustableRus/awesome-school-exploits#add-personal-account)
+
 # Game Cheats
 ## Blooket
-[Blooket Hacks (courtesy of Minesraft2)](https://github.com/Minesraft2/Blooket-Cheats/)
+**[Blooket Hacks by Minesraft2](https://github.com/Minesraft2/Blooket-Cheats/)**
+Note: You cannot import bookmarklets on school chromebooks, so you have to follow the instructions on your home computer and sync the bookmarklets. You can also make a bookmark for each hack you want to use.
+****
 ## Gimkit
 Gimkit auto answer. Works by saving the answers to questions for later. Will work when you have answered enough questions.
 ```
@@ -182,3 +191,5 @@ Create a character with AI and chat with it
 [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets) <br>
 [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits) <br>
 [Cheat Network](https://cheatnetwork.eu/)
+
+<br> If you enjoyed, please consider staring this repository and sharing it with your friends!
