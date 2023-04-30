@@ -1,5 +1,11 @@
-# School Cheats
+<img src="./images/banner.png">
+<div align="center">
 Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests <br>
+<img src="https://img.shields.io/github/stars/xShadowBlade/school-cheats?color=yellow&style=for-the-badge">
+<a href="https://github.com/xShadowBlade/school-cheats/graphs/traffic" alt=""><img src="https://img.shields.io/github/watchers/xShadowBlade/school-cheats?color=orange&style=for-the-badge"></a>
+<a href="https://github.com/xShadowBlade/school-cheats/issues" alt=""><img src="https://img.shields.io/github/issues/xShadowBlade/school-cheats?style=for-the-badge"></a>
+</div>
+
 ## <u><b>Table of Contents</b></u>
 - [FAQ](#faq)
 - [Bookmarklet Tutorial](#bookmarklet-tutorial)
@@ -36,7 +42,13 @@ I am working on updating this repository as much as I can, but my busy work sche
 Yes, I do. However, you should search if the hack exists first before requesting me to make it, and be warned that it might take a lot of time due to my busy schedule. Feel free to suggest any hacks for me to work on.
 ## <u>Are you going to add a free Chat-GPT onto here?</u>
 Yes, I am working on it. It has been delayed due to openai's buggy api, but you can search for ones online if you want it.
-<br> Check every 2-3 days for an update!
+<br>
+<div align="center">
+Check every 2-3 days for an update! <br>
+<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/last-commit/xShadowBlade/school-cheats?label=last%20update&style=for-the-badge"></a>
+<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/commit-activity/w/xShadowBlade/school-cheats?label=updates&style=for-the-badge"></a>
+</div>
+
 # Bookmarklet Tutorial
 Step 1. Enable bookmark bar (if not done so already)
 Step 2. Right click (alt + click on chromebooks) on the bookmark bar
