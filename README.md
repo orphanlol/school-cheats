@@ -2,11 +2,11 @@
 ![Header](./images/github-header-image.png)
 <div align="center">
 Cheats curated for school chromebooks in no particular order. Includes cheats for your favorite class games, proxies to bypass filters, pranks to pull on your friends, and more! Feel free to make suggestions via issues or DM me on Discord, and share it with your friends!
-<br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
 <br>
 <img src="https://img.shields.io/github/stars/xShadowBlade/school-cheats?color=yellow&style=for-the-badge">
 <a href="https://github.com/xShadowBlade/school-cheats/graphs/traffic" alt=""><img src="https://img.shields.io/github/watchers/xShadowBlade/school-cheats?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/xShadowBlade/school-cheats/issues" alt=""><img src="https://img.shields.io/github/issues/xShadowBlade/school-cheats?style=for-the-badge"></a>
+<br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
 </div>
 
 **DISCLAIMER: The tools presented in this document are intended for <u>educational purposes only.</u> ;) I am NOT responible for the actions you do or consequences that you recieve with these tools. Use at your own risk.**
