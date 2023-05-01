@@ -1,4 +1,5 @@
-<img src="./images/banner.png">
+<!-- <img src="./images/banner.png"> -->
+![Header](./images/github-header-image.png)
 <div align="center">
 Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or create pull requests
 <br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
@@ -7,6 +8,8 @@ Cheats curated for school chromebooks in no particular order. Feel free to make 
 <a href="https://github.com/xShadowBlade/school-cheats/graphs/traffic" alt=""><img src="https://img.shields.io/github/watchers/xShadowBlade/school-cheats?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/xShadowBlade/school-cheats/issues" alt=""><img src="https://img.shields.io/github/issues/xShadowBlade/school-cheats?style=for-the-badge"></a>
 </div>
+
+**DISCLAIMER: The tools presented in this document are intended for <u>educational purposes only.</u> ;) I am NOT responible for the actions you do or consequences that you recieve with these tools. Use at your own risk.**
 
 ## <u><b>Table of Contents</b></u>
 - [FAQ](#faq)
