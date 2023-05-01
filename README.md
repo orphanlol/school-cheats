@@ -1,7 +1,7 @@
 <!-- <img src="./images/banner.png"> -->
 ![Header](./images/github-header-image.png)
 <div align="center">
-Cheats curated for school chromebooks in no particular order. Feel free to make suggestions via issues or DM on Discord
+Cheats curated for school chromebooks in no particular order. Includes cheats for your favorite class games, proxies to bypass filters, pranks to pull on your friends, and more! Feel free to make suggestions via issues or DM me on Discord, and share it with your friends!
 <br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
 <br>
 <img src="https://img.shields.io/github/stars/xShadowBlade/school-cheats?color=yellow&style=for-the-badge">
@@ -57,7 +57,7 @@ Check every 2-3 days for an update! <br>
 
 # Bookmarklet Tutorial
 Step 1. Enable bookmark bar (if not done so already) 
-<br> Step 2. Right click (alt + click on chromebooks) on the bookmark bar
+<br> Step 2. Right click (`alt + click` on chromebooks) on the bookmark bar
 <br> Step 3. Click on `Add page...`
 <br> Step 4. Paste the code in the `URL` field
 <br> Step 5. Click the `Save` button near the bottom
@@ -138,12 +138,12 @@ javascript:(function()%7Bvar num%3Dprompt("How Times Do You Want This Page To Sh
 ```
 ## X-ray Goggles
 Powers to edit and modify pages like never before.
-Credit to [Mozilla](https://x-ray-goggles.mouse.org/)
+Made by: [Mozilla](https://x-ray-goggles.mouse.org/)
 ```
 javascript:(function () {var script=document.createElement('script');script.src='https://x-ray-goggles.mouse.org/webxray.js';script.className='webxray';script.setAttribute('data-lang','en-US');script.setAttribute('data-baseuri','https://x-ray-goggles.mouse.org');document.body.appendChild(script);}())
 ```
 ## Edit Page
-Edit the content of the website. Toggle on:
+Edit the contents of the website. Toggle on:
 ```
 javascript:document.body.contentEditable = 'true'; document.designMode='on'; document.body.spellcheck=false;void 0
 ```
@@ -152,7 +152,7 @@ Toggle off:
 javascript:document.body.contentEditable = 'false'; document.designMode='off'; document.body.spellcheck=true;void 0
 ```
 ## Communicate
-Go to [about:blank](about:blank) and run the following bookmarklet. Allows to communicate when you can't talk.
+Go to [about:blank](about:blank) and run the following bookmarklet. Allows to communicate when you can't talk by typing text on your computer.
 ```
 javascript:(() => {elem = document.createElement("h1");document.body.appendChild(elem);elem.innerHTML = "Enter Text Here:"; document.body.contentEditable = "true";document.body.enableSpellCheck = "false";})()
 ```
@@ -185,7 +185,7 @@ javascript:function _0x3a0f(_0x5ff5f,_0x2a6535){var _0x26f6ad=_0x47ae();return _
 
 # Miscellaneous
 ## Proxies
-Proxies bypass the filter and allow you to view most pages. Some pages may be blocked.
+Proxies bypass the filter and allow you to view most pages. Some pages may be blocked. Note: I did not make these, so they may log your personal information that you enter onto them. Use at your own risk.
 ### [Holy Unblocker](https://mxrdlup.org)
 Cool unblocker, can be a bit laggy (works at school, doesn't work at home*)
 ### [Rammerhead](https://achievementnetwork.ga/)
