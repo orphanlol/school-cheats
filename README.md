@@ -11,7 +11,14 @@ Cheats curated for school chromebooks in no particular order. Includes cheats fo
 
 **DISCLAIMER: The tools presented in this document are intended for <u>educational purposes only.</u> ;) I am NOT responible for the actions you do or consequences that you recieve with these tools. Use at your own risk.**
 
-## <u><b>Table of Contents</b></u>
+<div align="center">
+Check every 2-3 days for an update! <br>
+<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/last-commit/xShadowBlade/school-cheats?label=last%20update&style=for-the-badge"></a>
+<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/commit-activity/w/xShadowBlade/school-cheats?label=updates&style=for-the-badge"></a>
+</div>
+
+<details><summary><b>Table Of Contents</b> Table of contents for the hacks availible.</summary>
+
 - [FAQ](#faq)
 - [Bookmarklet Tutorial](#bookmarklet-tutorial)
 - [Tips and Tricks](#tips--tricks)
@@ -41,22 +48,27 @@ Cheats curated for school chromebooks in no particular order. Includes cheats fo
     - [Proxies](#proxies)
     - [AI Tools](#ai-tools)
     - [Additional Hacks](#additional-hacks)
-# FAQ
+</details>
+<details><summary><b>FAQ</b> Frequently asked questions & their answers</summary>
+
 ## <u>When are you going to add hack x onto here?</u>
 I am working on updating this repository as much as I can, but my busy work schedule may impede with that. I read every suggestion that you make, and I will be adding them when I have the time
 ## <u>Do you take requests for hacks?</u>
 Yes, I do. However, you should search if the hack exists first before requesting me to make it, and be warned that it might take a lot of time due to my busy schedule. Feel free to suggest any hacks for me to work on.
 ## <u>Are you going to add a free Chat-GPT onto here?</u>
 Yes, I am working on it. It has been delayed due to openai's buggy api, but you can search for ones online if you want it.
-<br>
-<div align="center">
-Check every 2-3 days for an update! <br>
-<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/last-commit/xShadowBlade/school-cheats?label=last%20update&style=for-the-badge"></a>
-<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/commit-activity/w/xShadowBlade/school-cheats?label=updates&style=for-the-badge"></a>
-</div>
 
-# Bookmarklet Tutorial
-Step 1. Enable bookmark bar (if not done so already) 
+</details>
+<details><summary><b>Tips & Tricks</b> Various tips to improve your experience with these trash chromebooks :/</summary>
+
+**Signing into another google account**
+You can sign into another google account if you log out of the chromebook session via another device and logging onto another account. More explained [here](https://github.com/UntrustableRus/awesome-school-exploits#add-personal-account)
+
+</details>
+<details><summary><b>Bookmarklet Tutorial</b> Tutorial on how to add bookmarklets</summary>
+
+Bookmarklets are a way to execute javascript without using the console.
+<br> Step 1. Enable bookmark bar (if not done so already) 
 <br> Step 2. Right click (`alt + click` on chromebooks) on the bookmark bar
 <br> Step 3. Click on `Add page...`
 <br> Step 4. Paste the code in the `URL` field
@@ -64,9 +76,7 @@ Step 1. Enable bookmark bar (if not done so already)
 <br> Step 6. Go to the site listed and click the bookmark
 <br> Step 7. Enjoy!
 
-# Tips & Tricks
-## Signing into another google account
-You can sign into another google account if you log out of the chromebook session via another device and logging onto another account. More explained [here](https://github.com/UntrustableRus/awesome-school-exploits#add-personal-account)
+</details>
 
 # Game Cheats
 ## Blooket
