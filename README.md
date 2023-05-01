@@ -58,9 +58,9 @@ Check every 2-3 days for an update! <br>
 # Bookmarklet Tutorial
 Step 1. Enable bookmark bar (if not done so already) 
 <br> Step 2. Right click (alt + click on chromebooks) on the bookmark bar
-<br> Step 3. Click on "Add page..."
-<br> Step 4. Paste the code in the "URL" field
-<br> Step 5. Click the "Save" button near the bottom
+<br> Step 3. Click on `Add page...`
+<br> Step 4. Paste the code in the `URL` field
+<br> Step 5. Click the `Save` button near the bottom
 <br> Step 6. Go to the site listed and click the bookmark
 <br> Step 7. Enjoy!
 
@@ -195,7 +195,7 @@ Barebones web proxy with cookies storage available (works at home, doesn't work 
 1. Go to the page and run the replit
 2. Select firefox [type 2 and enter] (chrome does not work)
 3. Enjoy*
-<br> *There are many bugs, Ill update the instructions when I have more time
+<br> *There are many bugs, I'll update the instructions when I get around to it
 ### [Android Emulator](https://now.gg/play/uncube/7074/now)
 Very laggy, pretty much needs a mouse
 
@@ -216,7 +216,8 @@ Pretty much the same as Simplified AI Writer
 ### [Character AI](https://beta.character.ai/)
 Create a character with AI and chat with it
 ## Additional Hacks
-[Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets)
+[3kh0 Extension Removers](https://github.com/3kh0/ext-remover) (full tutorial coming soon)
+<br> [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets)
 <br> [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits)
 <br> [xploitspeeds Bookmarklets](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School)
 <br> [Cheat Network](https://cheatnetwork.eu/)
