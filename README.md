@@ -3,18 +3,19 @@
 <div align="center">
 Cheats curated for school chromebooks in no particular order. Includes cheats for your favorite class games, proxies to bypass filters, pranks to pull on your friends, and more! Feel free to make suggestions via issues or DM me on Discord, and share it with your friends!
 <br>
+
+**DISCLAIMER: The tools presented in this document are intended for <u>educational purposes only.</u> ;) I am NOT responible for the actions you do or consequences that you recieve with these tools. Use at your own risk.**
+<br>
 <img src="https://img.shields.io/github/stars/xShadowBlade/school-cheats?color=yellow&style=for-the-badge">
 <a href="https://github.com/xShadowBlade/school-cheats/graphs/traffic" alt=""><img src="https://img.shields.io/github/watchers/xShadowBlade/school-cheats?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/xShadowBlade/school-cheats/issues" alt=""><img src="https://img.shields.io/github/issues/xShadowBlade/school-cheats?style=for-the-badge"></a>
-<br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
 </div>
 
-**DISCLAIMER: The tools presented in this document are intended for <u>educational purposes only.</u> ;) I am NOT responible for the actions you do or consequences that you recieve with these tools. Use at your own risk.**
-
 <div align="center">
-Check every 2-3 days for an update! <br>
+Check every 1-2 days for an update! <br>
 <a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/last-commit/xShadowBlade/school-cheats?label=last%20update&style=for-the-badge"></a>
 <a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/commit-activity/w/xShadowBlade/school-cheats?label=updates&style=for-the-badge"></a>
+<br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
 </div>
 
 <details><summary><b>Table Of Contents</b> Table of contents for the hacks availible.</summary>
@@ -49,23 +50,30 @@ Check every 2-3 days for an update! <br>
     - [AI Tools](#ai-tools)
     - [Additional Hacks](#additional-hacks)
 </details>
-<details><summary><b>FAQ</b> Frequently asked questions & their answers</summary>
+<details><summary><b>FAQ</b> | Frequently asked questions & their answers</summary>
 
-## <u>When are you going to add hack x onto here?</u>
+**<u>When are you going to add hack x onto here?</u>**
+<br>
 I am working on updating this repository as much as I can, but my busy work schedule may impede with that. I read every suggestion that you make, and I will be adding them when I have the time
-## <u>Do you take requests for hacks?</u>
+<br>
+
+**<u>Do you take requests for hacks?</u>**
+<br>
 Yes, I do. However, you should search if the hack exists first before requesting me to make it, and be warned that it might take a lot of time due to my busy schedule. Feel free to suggest any hacks for me to work on.
-## <u>Are you going to add a free Chat-GPT onto here?</u>
+<br>
+
+**<u>Are you going to add a free Chat-GPT onto here?</u>**
+<br>
 Yes, I am working on it. It has been delayed due to openai's buggy api, but you can search for ones online if you want it.
 
 </details>
-<details><summary><b>Tips & Tricks</b> Various tips to improve your experience with these trash chromebooks :/</summary>
+<details><summary><b>Tips & Tricks</b> | Various tips to improve your experience with these trash chromebooks :/</summary>
 
 **Signing into another google account**
 You can sign into another google account if you log out of the chromebook session via another device and logging onto another account. More explained [here](https://github.com/UntrustableRus/awesome-school-exploits#add-personal-account)
 
 </details>
-<details><summary><b>Bookmarklet Tutorial</b> Tutorial on how to add bookmarklets</summary>
+<details><summary><b>Bookmarklet Tutorial</b> | Tutorial on how to add bookmarklets</summary>
 
 Bookmarklets are a way to execute javascript without using the console.
 <br> Step 1. Enable bookmark bar (if not done so already) 
@@ -77,6 +85,7 @@ Bookmarklets are a way to execute javascript without using the console.
 <br> Step 7. Enjoy!
 
 </details>
+<br>
 
 # Game Cheats
 ## Blooket
@@ -197,7 +206,7 @@ javascript:function _0x3a0f(_0x5ff5f,_0x2a6535){var _0x26f6ad=_0x47ae();return _
 ## Proxies
 Proxies bypass the filter and allow you to view most pages. Some pages may be blocked. Note: I did not make these, so they may log your personal information that you enter onto them. Use at your own risk.
 ### [Holy Unblocker](https://mxrdlup.org)
-Cool unblocker, can be a bit laggy (works at school, doesn't work at home*)
+Cool unblocker, very laggy, some pages may not load (works at school, doesn't work at home*)
 ### [Rammerhead](https://achievementnetwork.ga/)
 Barebones web proxy with cookies storage available (works at home, doesn't work at school*)
 <br> *At my particular school
