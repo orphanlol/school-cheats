@@ -5,16 +5,14 @@ Cheats curated for school chromebooks in no particular order. Includes cheats fo
 <br>
 
 **DISCLAIMER: The tools presented in this document are intended for <u>educational purposes only.</u> ;) I am NOT responible for the actions you do or consequences that you recieve with these tools. Use at your own risk.**
+
+Check every 1-2 days for an update! <br>
+<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/last-commit/xShadowBlade/school-cheats?label=last%20update&style=for-the-badge"></a>
+<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/commit-activity/w/xShadowBlade/school-cheats?label=updates&style=for-the-badge"></a>
 <br>
 <img src="https://img.shields.io/github/stars/xShadowBlade/school-cheats?color=yellow&style=for-the-badge">
 <a href="https://github.com/xShadowBlade/school-cheats/graphs/traffic" alt=""><img src="https://img.shields.io/github/watchers/xShadowBlade/school-cheats?color=orange&style=for-the-badge"></a>
 <a href="https://github.com/xShadowBlade/school-cheats/issues" alt=""><img src="https://img.shields.io/github/issues/xShadowBlade/school-cheats?style=for-the-badge"></a>
-</div>
-
-<div align="center">
-Check every 1-2 days for an update! <br>
-<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/last-commit/xShadowBlade/school-cheats?label=last%20update&style=for-the-badge"></a>
-<a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/commit-activity/w/xShadowBlade/school-cheats?label=updates&style=for-the-badge"></a>
 <br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
 </div>
 
