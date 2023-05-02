@@ -218,14 +218,14 @@ Very laggy, pretty much needs a mouse
 
 ## AI Tools
 [ChatGPT](https://chat.openai.com/) doesn't work on school chromebooks* for some reason (probally due to networking), so here are some alternatives (I havent tested them yet, let me know how well they work)
+### [You Chatbot](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+Simple chat bot, does not need account (Recommended)
 ### [Writesonic](https://writesonic.com/chat)
 ChatGPT alternative. (needs account, free trial for 10,000 words)
 ### [Humata](https://www.humata.ai/)
 AI tool to help you write essays and paragraphs. (needs account)
 ### [BlueWillow](https://www.bluewillow.ai/)
 AI tool that generates images (needs discord)
-### [You Chatbot](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
-Simple chat bot
 ### [Simplified AI Writer](https://simplified.com/ai-writer/)
 AI writer for paragraphs or short essays (needs account)
 ### [Rytr](https://rytr.me/)
