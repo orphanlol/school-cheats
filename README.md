@@ -219,7 +219,7 @@ Very laggy, pretty much needs a mouse
 ## AI Tools
 [ChatGPT](https://chat.openai.com/) doesn't work on school chromebooks* for some reason (probally due to networking), so here are some alternatives (I havent tested them yet, let me know how well they work)
 ### [You Chatbot](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
-Simple chat bot, does not need account (Recommended)
+Simple chat bot (basically chatgpt), needs account (Recommended)
 ### [Writesonic](https://writesonic.com/chat)
 ChatGPT alternative. (needs account, free trial for 10,000 words)
 ### [Humata](https://www.humata.ai/)
