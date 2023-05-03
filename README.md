@@ -207,7 +207,7 @@ Proxies bypass the filter and allow you to view most pages. Some pages may be bl
 Cool unblocker, very laggy, some pages may not load (works at school, doesn't work at home*)
 ### [Nebula 1](https://nebulaproxy.io/)
 Also a good unblocker, laggy & probably blocked
-### [Kazwire](math.baikabibai.com)
+### [Kazwire](https://math.baikabibai.com)
 An unblocked games site that allows you to also browse the web freely (laggy)
 ### [Rammerhead](https://achievementnetwork.ga/)
 Barebones web proxy with cookies storage available (works at home, doesn't work at school*)
