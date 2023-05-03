@@ -67,7 +67,7 @@ Yes, I am working on it. It has been delayed due to openai's buggy api, but you 
 </details>
 <details><summary><b>Tips & Tricks</b> | Various tips to improve your experience with these trash chromebooks :/</summary>
 
-**Signing into another google account**
+**Signing into another google account** <br>
 You can sign into another google account if you log out of the chromebook session via another device and logging onto another account. More explained [here](https://github.com/UntrustableRus/awesome-school-exploits#add-personal-account)
 
 </details>
@@ -205,6 +205,10 @@ javascript:function _0x3a0f(_0x5ff5f,_0x2a6535){var _0x26f6ad=_0x47ae();return _
 Proxies bypass the filter and allow you to view most pages. Some pages may be blocked. Note: I did not make these, so they may log your personal information that you enter onto them. Use at your own risk.
 ### [Holy Unblocker](https://mxrdlup.org)
 Cool unblocker, very laggy, some pages may not load (works at school, doesn't work at home*)
+### [Nebula 1](https://nebulaproxy.io/)
+Also a good unblocker, laggy & probably blocked
+### [Kazwire](math.baikabibai.com)
+An unblocked games site that allows you to also browse the web freely (laggy)
 ### [Rammerhead](https://achievementnetwork.ga/)
 Barebones web proxy with cookies storage available (works at home, doesn't work at school*)
 <br> *At my particular school
@@ -233,7 +237,9 @@ Pretty much the same as Simplified AI Writer
 ### [Character AI](https://beta.character.ai/)
 Create a character with AI and chat with it
 ## Additional Hacks
-[3kh0 Extension Removers](https://github.com/3kh0/ext-remover) (full tutorial coming soon)
+[Totally Science games](https://totallyscience.co/)
+<br> [LTMeat extension unblocker](https://git.nebulaproxy.dev/Chloe/LTMeat) (full tutorial coming soon)
+<br> [3kh0 Extension Removers](https://github.com/3kh0/ext-remover) (full tutorial coming soon)
 <br> [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets)
 <br> [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits)
 <br> [xploitspeeds Bookmarklets](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School)
