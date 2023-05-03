@@ -205,7 +205,8 @@ javascript:function _0x3a0f(_0x5ff5f,_0x2a6535){var _0x26f6ad=_0x47ae();return _
 Proxies bypass the filter and allow you to view most pages. Some pages may be blocked. Note: I did not make these, so they may log your personal information that you enter onto them. Use at your own risk.
 ### [Holy Unblocker](https://mxrdlup.org)
 Cool unblocker, very laggy, some pages may not load (works at school, doesn't work at home*)
-### [Nebula 1](https://nebulaproxy.io/)
+<br> Note: If a message that says `An error occurred while loading Ultraviolet` or something like that, click the `Try Again` button.
+### [Nebula](https://nebulaproxy.io/)
 Also a good unblocker, laggy & probably blocked
 ### [Kazwire](https://math.baikabibai.com)
 An unblocked games site that allows you to also browse the web freely (laggy)
@@ -239,7 +240,7 @@ Create a character with AI and chat with it
 ## Additional Hacks
 [Totally Science games](https://totallyscience.co/)
 <br> [LTMeat extension unblocker](https://git.nebulaproxy.dev/Chloe/LTMeat) (full tutorial coming soon)
-<br> [3kh0 Extension Removers](https://github.com/3kh0/ext-remover) (full tutorial coming soon)
+<br> **[3kh0 Extension Removers](https://github.com/3kh0/ext-remover)** (full tutorial coming soon, very op)
 <br> [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets)
 <br> [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits)
 <br> [xploitspeeds Bookmarklets](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School)
