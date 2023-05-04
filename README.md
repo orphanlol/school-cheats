@@ -74,14 +74,15 @@ You can sign into another google account if you log out of the chromebook sessio
 <details><summary><b>Bookmarklet Tutorial</b> | Tutorial on how to add bookmarklets</summary>
 
 Bookmarklets are a way to execute javascript without using the console.
-<br> Step 1. Enable bookmark bar (if not done so already) 
-<br> Step 2. Right click (`alt + click` on chromebooks) on the bookmark bar
+<br> Step 1. Enable bookmark bar (`Ctrl + Shift + B`) (if not done so already) 
+<br> Step 2. Right click (`alt + click` or tap with two fingers on chromebooks) on the bookmark bar
 <br> Step 3. Click on `Add page...`
 <br> Step 4. Paste the code in the `URL` field
-<br> Step 5. Click the `Save` button near the bottom
-<br> Step 6. Go to the site listed and click the bookmark
-<br> Step 7. Enjoy!
-
+<br> Step 5. Edit the `name` to your liking
+<br> Step 6. Click the `Save` button near the bottom
+<br> Step 7. Go to the site listed and click the bookmark
+<br> Step 8. Enjoy!
+<br> ![](./images/Bookmarklet.gif)
 </details>
 <br>
 
@@ -124,6 +125,7 @@ idk what this does I haven't tested it yet but its a live hack
 javascript:try{async function getSetId(a){const b=await fetch('https://quizlet.com/webapi/3.8/multiplayer/game-instance?gameCode='+a),c=await b['json']();if(c['error'])throw new Error(c['error']['message']);return c['gameInstance']['itemId'];}async function getSetData(a){const b=await fetch('https://quizlet.com/'+a),c=await b['text'](),d=c['match'](/\\"termIdToTermsMap\\":{.+?{.+?\\"termSort\\":/gi)?.[0x0];if(!d)throw new Error('Failed\x20to\x20parse\x20set\x20data.');const e=JSON['parse'](d['slice'](0x15,-0xe)['replaceAll']('\x5c\x22','\x22'));return[Object['fromEntries'](Object['values'](e)['map'](({word:f,definition:g})=>[f,g])),Object['fromEntries'](Object['values'](e)['map'](({word:f,definition:g})=>[g,f]))];}function getActiveQuestion(){try{const a=document['querySelector']('.StudentPrompt-text')['textContent'],b=Array['from'](document['querySelectorAll']('.StudentAnswerOption-text'));return[a,b];}catch{}return[null,null];}((async()=>{const a=prompt('Enter\x20PIN,\x20like:\x20XXX-XXX','')['match'](/[0-9a-zA-Z]/g)['join']('');if(a['length']!==0x6)throw new Error('Pin\x20must\x20be\x206\x20characters\x20in\x20length.');const b=await getSetId(a),[c,d]=await getSetData(b);setInterval(async function(){const [e,f]=getActiveQuestion();if(!e||!f)return;if(e in c)f['forEach'](g=>{if(g['textContent']===c[e])g['style']['fontWeight']='bolder';});else e in d?f['forEach'](g=>{if(g['textContent']===d[e])g['style']['fontWeight']='bolder';}):f['forEach'](g=>{g['style']['fontWeight']='normal';});},0x0);})());}catch(h){alert(h);}
 ```
 ## Kahoot
+[Mem.rip](https://mem.rip/kahoot/) Powerful hack website client. Go to the website and enter the code.<br>
 [Cool kahoot hacks](https://github.com/unixpickle/kahoot-hack) made by unixpickle, though requires download. Includes flooder and auto answer <br>
 [Kahoot auto answer bot](https://github.com/Raymo111/kahoot-answer-bot) made by Raymo111, though requires download as well <br>
 [Kitty Tools](https://github.com/CPScript/Kitty-Tools), a hack made by CPScript. Offers answer hacks and flood (requires download) <br>
