@@ -84,7 +84,6 @@ Bookmarklets are a way to execute javascript without using the console.
 <br> Step 8. Enjoy!
 <br> ![](./images/Bookmarklet.gif)
 </details>
-<br>
 
 # Game Cheats
 ## Blooket
