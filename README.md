@@ -228,9 +228,8 @@ Windows emulator with a 30 minute free trial and paid access after. (Note: If yo
 Very laggy, pretty much needs a mouse
 
 ## AI Tools
-[ChatGPT](https://chat.openai.com/)
+[ChatGPT](https://chat.openai.com/) (might be a bit slow on school chromebooks)
 <br> **Alternatives** (If chatgpt doesn't work)
-
 ### [You Chatbot](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
 Simple chat bot (basically chatgpt), needs account (Recommended)
 ### [Writesonic](https://writesonic.com/chat)
