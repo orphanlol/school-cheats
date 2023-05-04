@@ -213,7 +213,11 @@ Also a good unblocker, laggy & probably blocked
 An unblocked games site that allows you to also browse the web freely (laggy)
 ### [Rammerhead](https://achievementnetwork.ga/)
 Barebones web proxy with cookies storage available (works at home, doesn't work at school*)
+### [HU VPN](https://holyubvpn.com/)
+Paid access VPN that works on school chromebooks
 <br> *At my particular school
+### [Windows Emulator](https://www.apponfly.com/)
+Windows emulator with a 30 minute free trial and paid access after
 ### [Browser Emulator](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment) 
 1. Go to the page and run the replit
 2. Select firefox [type 2 and enter] (chrome does not work)
@@ -223,7 +227,9 @@ Barebones web proxy with cookies storage available (works at home, doesn't work 
 Very laggy, pretty much needs a mouse
 
 ## AI Tools
-[ChatGPT](https://chat.openai.com/) doesn't work on school chromebooks* for some reason (probally due to networking), so here are some alternatives (I havent tested them yet, let me know how well they work)
+[ChatGPT](https://chat.openai.com/)
+<br> **Alternatives** (If chatgpt doesn't work)
+
 ### [You Chatbot](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
 Simple chat bot (basically chatgpt), needs account (Recommended)
 ### [Writesonic](https://writesonic.com/chat)
@@ -245,6 +251,6 @@ Create a character with AI and chat with it
 <br> [Legend7269 Bookmarklets](https://github.com/Legend7269/Bookmarklets)
 <br> [UntrustableRus School Hacks](https://github.com/UntrustableRus/awesome-school-exploits)
 <br> [xploitspeeds Bookmarklets](https://github.com/xploitspeeds/Bookmarklet-Hacks-For-School)
-<br> [Cheat Network](https://cheatnetwork.eu/)
+<br> [Cheat Network](https://cheatnetwork.eu/) (Answers for quizizz, kahoot, quizlet, etc)
 
 <br> If you enjoyed, please consider staring this repository and sharing it with your friends!
