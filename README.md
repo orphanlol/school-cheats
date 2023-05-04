@@ -82,6 +82,7 @@ Bookmarklets are a way to execute javascript without using the console.
 <br> Step 6. Click the `Save` button near the bottom
 <br> Step 7. Go to the site listed and click the bookmark
 <br> Step 8. Enjoy!
+<br> Click on the gif to enlarge it.
 <br> ![](./images/Bookmarklet.gif)
 </details>
 
@@ -217,7 +218,7 @@ Barebones web proxy with cookies storage available (works at home, doesn't work 
 Paid access VPN that works on school chromebooks
 <br> *At my particular school
 ### [Windows Emulator](https://www.apponfly.com/)
-Windows emulator with a 30 minute free trial and paid access after
+Windows emulator with a 30 minute free trial and paid access after. (Note: If you leave before the trial ends then you might be able to reset it)
 ### [Browser Emulator](https://replit.com/@Baconman321/Bash-Browser-Executable-Selection-Experiment) 
 1. Go to the page and run the replit
 2. Select firefox [type 2 and enter] (chrome does not work)
