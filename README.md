@@ -229,7 +229,9 @@ Very laggy, pretty much needs a mouse
 
 ## AI Tools
 [ChatGPT](https://chat.openai.com/) (might be a bit slow on school chromebooks) <br>
-[ChatGPT Jailbreak](https://github.com/0xk1h0/ChatGPT_DAN) (makes the AI able to answer "inappropriate" questions)
+[ChatGPT Jailbreak](https://github.com/0xk1h0/ChatGPT_DAN) (makes the AI able to answer "inappropriate" questions) <br>
+[Undetectable AI](https://undetectable.ai/?section=playground&tab=&uid=) (Rewrites AI text to make it undetectable by AI detectors)
+[Quillbot](https://quillbot.com/) (Rephrases. [Does not make it undetectable])
 <br> **ChatGPT Alternatives** (If chatgpt doesn't work)
 
 ### [You Chatbot](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
