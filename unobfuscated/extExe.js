@@ -5,7 +5,6 @@ top: 0;
 left: 0;
 width: 100%;
 height: 100%;
-background-color: rgba(0, 0, 0, 0.5);
 display: flex;
 justify-content: center;
 align-items: center;
@@ -96,6 +95,21 @@ document.getElementById("initScriptJSALDKW").addEventListener("click", () => {
     console.log(input);
     input = decodeURISearchAndReplace(input);
     console.log(input);
-    Function(input)();
+    function cspEval(js) {
+        var script = document.createElement("script");
+    
+        // No Blob ? No CSP !
+        if (Blob) {
+            var blob = new Blob([js], {"type": "application/javascript"});
+            script.src = URL.createObjectURL(blob);
+        } else {
+            var dataUri = "data:application/javascript," + js;
+            script.src = dataUri;
+        }
+    
+        var callback = function() { document.body.appendChild(script) };
+        document.readyState === "complete" ? callback() : window.onload = callback;
+    }
+    cspEval(input);
 });
 })();
