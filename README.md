@@ -223,8 +223,8 @@ Also a good unblocker, laggy & probably blocked
 An unblocked games site that allows you to also browse the web freely (laggy)
 ### [Rammerhead](https://achievementnetwork.ga/)
 Barebones web proxy with cookies storage available (works at home, doesn't work at school*)
-### [HU VPN](https://holyubvpn.com/)
-Paid access VPN that works on school chromebooks
+### [HU VPN](https://holyubvpn.com/signup#2b5307846f)
+**Paid access VPN** that works on school chromebooks (Note: It says "free" but you need to invite two paying users)
 <br> *At my particular school
 
 ### [Windows Emulator](https://www.apponfly.com/)
