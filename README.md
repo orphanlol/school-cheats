@@ -147,7 +147,13 @@ Copies the equation so you can put it into [symbolab](https://www.symbolab.com/)
 ```
 javascript:try{problemObj=problem.qlinesCopy[0],equation=problemObj.line?problemObj.line:`${problemObj.left.replace(/[{}]/g,"")}=${problemObj.right}`,prompt("Equation:",equation)}catch{alert("Equation not detected!")};void 0
 ```
-Here is another one that shows you the answer to multiple choice questions, though requires the console.
+Here is another one that shows you the answer to multiple choice questions. Use in combination with [Ethereal Console](#ethereal-console). <br>
+Instructions:
+<br> Step 1. Click on the `ethereal console` bookmarklet
+<br> Step 2. Click on the `deltamath` bookmarklet
+<br> Step 3. For each question, click on the `Answer in console` button
+<br> Step 4. At the bottom, the answer should show.
+<br> Step 5. Ignore the %c. For multiple choice questions, 0 is top left ; 1 is top right ; 2 is bottom left ; 3 is bottom right. For open response questions, the answer should be there.
 ```
 javascript:fetch("https://res.cloudinary.com/dq36xqdoe/raw/upload/v1681701219/bookmark_yguw3q.js").then(r => r.text()).then(r => eval(r))
 ```
