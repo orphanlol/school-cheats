@@ -16,7 +16,7 @@ Check every 1-2 days for an update! <br>
 <br><img src="https://img.shields.io/badge/Made%20by%3A-xShadowBlade%232720-blue?style=social&logo=discord">
 </div>
 
-<details><summary><b>Table Of Contents</b> Table of contents for the hacks availible.</summary>
+<details><summary><b>Table Of Contents</b> | Table of contents for the hacks availible.</summary>
 
 - [FAQ](#faq)
 - [Extended Javascript Executor](#extended-javascript-executor)
@@ -147,7 +147,7 @@ Copies the equation so you can put it into [symbolab](https://www.symbolab.com/)
 ```
 javascript:try{problemObj=problem.qlinesCopy[0],equation=problemObj.line?problemObj.line:`${problemObj.left.replace(/[{}]/g,"")}=${problemObj.right}`,prompt("Equation:",equation)}catch{alert("Equation not detected!")};void 0
 ```
-Here is another one that shows you the answer to multiple choice questions. Use in combination with [Ethereal Console](#ethereal-console). <br>
+Here is another one that shows you the answer to multiple choice questions and open response questions. Use in combination with [Ethereal Console](#ethereal-console). <br>
 Instructions:
 <br> Step 1. Click on the `ethereal console` bookmarklet
 <br> Step 2. Click on the `deltamath` bookmarklet
