@@ -1,4 +1,4 @@
-fetch("https://raw.githubusercontent.com/xShadowBlade/school-cheats/main/README.md")
+await fetch("https://raw.githubusercontent.com/xShadowBlade/school-cheats/main/README.md")
     .then(response => response.text())
     .then(markdown => {
         const container = document.getElementById("markdown-container");

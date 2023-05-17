@@ -1,5 +1,5 @@
 <!-- <img src="./images/banner.png"> -->
-![Header](./images/github-header-image.png)
+![Header](https://raw.githubusercontent.com/xShadowBlade/school-cheats/main/images/github-header-image.png)
 <div align="center">
 Cheats curated for school chromebooks in no particular order. Includes cheats for your favorite class games, proxies to bypass filters, pranks to pull on your friends, and more! Feel free to make suggestions via issues or DM me on Discord, and share it with your friends!
 <br>
@@ -85,7 +85,7 @@ Bookmarklets are a way to execute javascript without using the console.
 <br> Step 7. Go to the site listed and click the bookmark
 <br> Step 8. Enjoy!
 <br> Click on the gif to enlarge it.
-<br> ![](./images/Bookmarklet.gif)
+<br> ![](https://raw.githubusercontent.com/xShadowBlade/school-cheats/main/images/Bookmarklet.gif)
 </details>
 
 ## Extended Javascript Executor
