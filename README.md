@@ -241,7 +241,11 @@ javascript:function _0x3a0f(_0x5ff5f,_0x2a6535){var _0x26f6ad=_0x47ae();return _
 
 ## Proxies
 Proxies bypass the filter and allow you to view most pages. Some pages may be blocked. Note: I did not make these, so they may log your personal information that you enter onto them. Use at your own risk.
-### [Incognito](https://mealvariation.org/)
+### Incognito]https://mealvariation.org/
+[Link 1](ttps://mealvariation.org/) (probally blocked) <br>
+[Link 2](https://afastweb.up.railway.app/)
+<br>
+
 Unblocker, can be a bit laggy (recommended)
 ### [Holy Unblocker](https://mxrdlup.org)
 Cool unblocker, very laggy, some pages may not load (works at school, doesn't work at home*)
