@@ -6,7 +6,7 @@ Cheats curated for school chromebooks in no particular order. Includes cheats fo
 
 **DISCLAIMER: The tools presented in this document are intended for <u>educational purposes only.</u> ;) I am NOT responible for the actions you do or consequences that you recieve with these tools. Use at your own risk.**
 
-Check every 1-2 days for an update! <br>
+Sorry, but I will not be updating this over the summer. <br>
 <a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/last-commit/xShadowBlade/school-cheats?label=last%20update&style=for-the-badge"></a>
 <a href="https://github.com/xShadowBlade/school-cheats/commits/main" alt=""><img src="https://img.shields.io/github/commit-activity/w/xShadowBlade/school-cheats?label=updates&style=for-the-badge"></a>
 <br>
